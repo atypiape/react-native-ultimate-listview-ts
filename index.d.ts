@@ -1,6 +1,6 @@
 import React from 'react';
 
-declare module '@bang88/react-native-ultimate-listview' {
+declare module 'react-native-ultimate-listview-ts' {
 
 export type UltimatePostFetch = (rows: any[], pageLimit: number) => void;
 export type UltimateEndFetch = () => void;
